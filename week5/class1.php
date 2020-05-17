@@ -11,6 +11,6 @@ echo "<p style='color: blue'>Hello World</p>";
 
 $i = 0;
 while ($i < 100){
-    echo "<p><Hel></Hel>lo</p>";
+    echo "<p>Hello</p>";
     $i =$i +1;
 }
